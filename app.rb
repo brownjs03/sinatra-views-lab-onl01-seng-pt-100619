@@ -13,7 +13,7 @@ get '/goodbye' do
 end 
 
 get '/date' do 
-  "test"
+  erb :date 
 end 
 
 end
